@@ -1,0 +1,6 @@
+.active-page {
+  background-color: #343a40 !important;
+  color: #007bff !important;
+  border-color: #dee2e6 #dee2e6 #fff !important;
+  font-weight: bold;
+}
