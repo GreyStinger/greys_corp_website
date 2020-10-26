@@ -1,8 +1,12 @@
-.active-page {
+.active-page-1 {
   background-color: #343a40 !important;
-  color: #007bff !important;
   border-color: #FFF  #FFF #fff !important;
   font-weight: bold;
+}
+
+.active-page-2 {
+  background-color: #343a40 !important;
+  border-color: #FFF  #FFF #fff !important;
 }
 
 .non-active-page {
@@ -18,4 +22,8 @@
 html, body {
   background-color: #6c757d !important;
   height: 100% !important;
+}
+
+.font-bold {
+  font-weight: bold;
 }
