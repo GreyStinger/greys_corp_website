@@ -1,3 +1,39 @@
+@font-face {
+  font-family: BrushScriptMD;
+  src: url(/fonts/brush-script-mt/brush-script-mt-kursiv.ttf);
+}
+
+@font-face {
+  font-family: monserrat-black;
+  src: url(/fonts/monserrat/Montserrat-Black.ttf);
+}
+
+@font-face {
+  font-family: monserrat-regular;
+  src: url(/fonts/monserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+  font-family: monserrat-medium;
+  src: url(/fonts/monserrat/Montserrat-Medium.ttf);
+}
+
+.monserrat-regular {
+  font-family: monserrat-regular;
+}
+
+.monserrat-medium {
+  font-family: monserrat-medium;
+}
+
+.monserrat-black {
+  font-family: monserrat-black;
+}
+
+.brush-script-md {
+  font-family: BrushScriptMD;
+}
+
 .active-page-1 {
   background-color: #343a40 !important;
   border-color: #FFF  #FFF #fff !important;
