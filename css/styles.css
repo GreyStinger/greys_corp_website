@@ -20,10 +20,28 @@
 }
 
 html, body {
-  background-color: #6c757d !important;
+  background-color: #343a40 !important;
   height: 100% !important;
 }
 
 .font-bold {
   font-weight: bold;
+}
+
+.btn-discord {
+  color: #fff;
+  background-color: #6a097d;
+  border-color: #6a097d;
+}
+
+.btn-github {
+  color: #000;
+  background-color: #FFF;
+  border-color: #FFF;
+}
+
+.btn-reddit {
+  color: #000;  
+  background-color: #FF4500;
+  border-color: #FF4500;
 }
