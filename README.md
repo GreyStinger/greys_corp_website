@@ -9,6 +9,5 @@ The only reason that I am going about this is that I really think that it could 
 
 ## I plan to use this hand in hand with my Mobile Aplication.
 
-I have a website that I am setting up that will be
-set up in a similar manner as this aplication.
+I have a Mobile Aplication that I am setting up that will be set up in a similar manner as this Website.
 You can find the project on [GitHub](https://github.com/GreyStinger/greys_corp_website)
