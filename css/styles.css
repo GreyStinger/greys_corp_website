@@ -1,6 +1,20 @@
 .active-page {
   background-color: #343a40 !important;
   color: #007bff !important;
-  border-color: #dee2e6 #dee2e6 #fff !important;
+  border-color: #FFF  #FFF #fff !important;
   font-weight: bold;
+}
+
+.non-active-page {
+  background-color: #343a40 !important;
+  border-color:  #6c757d !important;
+}
+
+.left-right-margin-1 {
+  margin-left: 0.25rem !important;
+  margin-right: o.25rem !important;
+}
+
+html, body {
+  height: 100% !important;
 }
