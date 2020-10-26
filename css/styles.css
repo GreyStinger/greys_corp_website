@@ -67,17 +67,23 @@ html, body {
 .btn-discord {
   color: #fff;
   background-color: #6a097d;
-  border-color: #6a097d;
+  border-color: #343a40;
 }
 
 .btn-github {
   color: #000;
-  background-color: #FFF;
-  border-color: #FFF;
+  background-image: linear-gradient(to right, #FFF 0%, #808080 100%);
+  border-color: #343a40;
 }
 
 .btn-reddit {
   color: #000;  
-  background-color: #FF4500;
-  border-color: #FF4500;
+  background-image: linear-gradient(to right, #FF5700 0%, #FF4500 100%);
+  border-color: #343a40;
+}
+
+.btn-instagram {
+  color: #000;
+  background-image: linear-gradient(to right, #FEDA77 10%, #F58529 25%, #DD2A7B 50%, #8134AF 75%, #515BD4 100%);
+  border-color: #343a40;
 }
